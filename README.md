@@ -8,4 +8,4 @@ Finding correlations between various parameters present in the data and it's eff
 
 The project is still in progress. 
 Data Scource: https://earthquake.usgs.gov/earthquakes/map/
-Downloaded ofr several years across regions.
+Downloaded over several years across regions.
